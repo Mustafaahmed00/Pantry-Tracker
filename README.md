@@ -1,4 +1,27 @@
-## Checkout the app here - https://pantrytracker-jh9vfbbcl-mustafa-ahmeds-projects-458d38b0.vercel.app/
+# Pantry Tracker
+
+The Pantry Tracker app is a modern web application built using the following technologies and skills:
+
+- **JavaScript**: Core programming language.
+- **React**: Component-based UI development.
+- **Next.js**: Server-side rendering, static site generation, and more.
+- **Firebase**: Authentication, Firestore database, and Storage.
+- **HTML & CSS**: Structuring and styling the web pages.
+- **Environment Variables**: Securely managing sensitive data.
+- **Git & GitHub**: Version control and collaboration.
+- **Vercel**: Deployment with CI/CD.
+- **Bash & Terminal Commands**: Project setup and management.
+- **Responsive Design**: Ensuring compatibility across devices.
+
+## Features
+
+- **Form Handling**: Add, delete, and search pantry items.
+- **State Management**: Efficiently managing app state with React hooks.
+- **Image Handling**: Capture and upload images using Firebase Storage.
+- **Recipe Suggestions**: Suggest recipes based on available pantry items.
+- **Category Management**: Organize items and recipes by categories.
+
+## Feel free to explore the app here - https://pantrytracker-jh9vfbbcl-mustafa-ahmeds-projects-458d38b0.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
